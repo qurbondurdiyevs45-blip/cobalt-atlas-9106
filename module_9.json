@@ -1,0 +1,15 @@
+{
+  "name": "cobalt-atlas-9106",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 6358,
+    "createdAt": "2026-09-08T10:55:24.572Z"
+  }
+}
